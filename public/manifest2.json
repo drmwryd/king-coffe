@@ -1,0 +1,35 @@
+{
+    "name": "King Coffe",
+    "short_name": "KING COFFE",
+    "icons": [{
+      "src": "images/king128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }, {
+        "src": "images/king144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }, {
+        "src": "images/king152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      }, {
+        "src": "images/king192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }, {
+        "src": "images/king256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }, {
+        "src": "images/king512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }],
+    "lang": "en-US",
+    "start_url": "http://localhost/king-coffe",
+    "display": "standalone",
+    "background_color": "green",
+    "theme_color": "grey"
+  }
+  
